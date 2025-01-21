@@ -119,3 +119,5 @@ Fyra can process and extract content from the following file types:
 - Ensure you have the necessary permissions to process uploaded files.
 - The chatbot's responses are for educational purposes only and may require professional validation.
 
+
+
